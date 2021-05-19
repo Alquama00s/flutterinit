@@ -22,4 +22,4 @@ here we will be developing a blog app and connect it to firebase use firestore t
 - open this project with ur prefered editor
 - run this on a device or emulator
 # Demo
-![Alt Text](/assets/b1.jpg)
+![Alt Text](/shots/shot.gif)
