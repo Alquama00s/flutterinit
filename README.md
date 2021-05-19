@@ -18,8 +18,10 @@ here we will be developing a blog app and connect it to firebase use firestore t
   - also since we r building with flutter you can compile for web and then use chrome in small window but it is discouraged
 - install dart and flutter plugins 
 ## Getting readdy for Flutter Friday
-- [Clone this repo to ur system](https://www.youtube.com/watch?v=o8YS4-WBxmE)
+- Clone this repo to ur system [(Learn github here)](https://www.youtube.com/watch?v=o8YS4-WBxmE)
 - open this project with ur prefered editor
-- run this on a device or emulator
-# Demo
+- run this on a device or emulator 
+>
+It will take time and some data but the following screen should appear if not so contact speaker over discord
+>
 ![Alt Text](/shots/shot.gif)
