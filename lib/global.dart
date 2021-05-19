@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterinit/models/blog.dart';
+//import 'package:flutterinit/models/blog.dart';
 
 String LoremIpsum = """
 Lorem Ipsum is simply dummy text of the printing and typeset
@@ -27,4 +27,4 @@ ThemeData apptheme=ThemeData(
   primarySwatch: primary,
   scaffoldBackgroundColor: secondary,
 );
-List<Blog> articles=[];
+//List<Blog> articles=[];
