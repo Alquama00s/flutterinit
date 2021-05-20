@@ -4,6 +4,7 @@ This app will be developed in a session "Flutter Friday" this session is targete
 here we will be developing a blog app and connect it to firebase use firestore to store and retrieve those data.
 
 ## Initializing Environment
+- [install flutter sdk](https://flutter.dev/docs/get-started/install)
 ### Good Machine
 - [install Android studio](https://developer.android.com/studio)
 - Emulators or device
@@ -18,7 +19,7 @@ here we will be developing a blog app and connect it to firebase use firestore t
   - also since we r building with flutter you can compile for web and then use chrome in small window but it is discouraged
 - install dart and flutter plugins 
 ## Getting readdy for Flutter Friday
-- Clone this repo to ur system [(Learn github here)](https://www.youtube.com/watch?v=o8YS4-WBxmE)
+- Clone this repo to ur system[ Learn github here](https://www.youtube.com/watch?v=o8YS4-WBxmE)
 - open this project with ur prefered editor
 - run this on a device or emulator 
 >

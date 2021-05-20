@@ -6,7 +6,7 @@ class MyHomePageLess extends StatelessWidget {
   int _counter = 0;
 
   void _incrementCounter() {
-      _counter++;
+    _counter++;
   }
 
   @override
@@ -21,6 +21,9 @@ class MyHomePageLess extends StatelessWidget {
           children: <Widget>[
             const Text(
               'You have pushed the button this many times:',
+              style: TextStyle(
+                fontSize: 90,
+              ),
             ),
             Text(
               '$_counter',
